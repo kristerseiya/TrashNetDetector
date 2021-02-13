@@ -1,0 +1,4 @@
+azure
+__pycache__
+model
+annotations.csv
